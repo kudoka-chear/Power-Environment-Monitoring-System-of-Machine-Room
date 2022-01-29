@@ -1,0 +1,16 @@
+.indexContent{
+    margin: 30px 40px;
+}
+#smallNav{
+	margin-top: 50px;
+	padding-left: 10px;
+	padding-right: 200px;
+}
+#smallNav ul li{
+	padding-left: 50px;
+}
+.GraphBox{
+	width: 850px; 
+	height: 400px; 
+	margin: 20px auto;
+}
